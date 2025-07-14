@@ -1,3 +1,5 @@
+````markdown
+---
 title: "NeuroSTF: Neuroplastic Sparse Attention for Time-Series Forecasting"
 authors:
   - name: Ovi Pal
@@ -145,5 +147,3 @@ This work was inspired by foundational research in neural attention mechanisms a
 39. Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., ... & Liu, P. J. (2020). Exploring the limits of transfer learning with a unified text-to-text transformer. *JMLR*.
 
 40. Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). BERT: Pre-training of deep bidirectional transformers for language understanding. *NAACL-HLT*.
-
-
