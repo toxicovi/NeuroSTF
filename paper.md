@@ -11,7 +11,6 @@ tags:
   - sparse attention
   - neuroplasticity
   - multivariate forecasting
-bibliography: paper.bib
 ---
 
 # Summary
