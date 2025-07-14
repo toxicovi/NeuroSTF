@@ -1,4 +1,3 @@
-````markdown
 ---
 title: "NeuroSTF: Neuroplastic Sparse Attention for Time-Series Forecasting"
 authors:
@@ -29,9 +28,6 @@ NeuroSTF requires Python 3.7 or higher. Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
-````
-
-The entire model, training, and evaluation pipeline is contained within `neurostf.py`.
 
 # Usage
 
